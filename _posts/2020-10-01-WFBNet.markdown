@@ -2,7 +2,7 @@
 layout: post
 title:  "Coarse to Fine: Weak Feature Boosting Network for Salient Object Detection"
 date:   2020-10-01 00:00:00 +00:00
-image: /images/WFBNet.jpg
+image: /images/WFBNet.png
 categories: research
 author: "Chenhao Zhang"
 authors: "<strong>Chenhao Zhang</strong>, Shanshan Gao, Xiao Pan, Yuting Wang, Yuanfeng Zhou"
