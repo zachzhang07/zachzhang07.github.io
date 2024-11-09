@@ -8,6 +8,6 @@ author: "Chenhao Zhang"
 authors: "<strong>Chenhao Zhang</strong>, Yongyang Zhou, Lei Zhang"
 venue: "arxiv"
 paper: https://arxiv.org/pdf/2403.06505
-project: https://zyyzyy06.github.io/Vosh
+website: https://zyyzyy06.github.io/Vosh
 ---
 The Vosh framework introduces a hybrid representation that combines voxel and mesh components to achieve a flexible balance between rendering quality and speed, enabling real-time performance on mobile devices while maintaining high-quality rendering in complex regions.
