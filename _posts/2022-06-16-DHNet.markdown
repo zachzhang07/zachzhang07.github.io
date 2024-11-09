@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "DHNet: Salient Object Detection With Dynamic Scale-Aware Learning and Hard-Sample Refinement"
+date:   2022-06-16 00:00:00 +00:00
+image: /images/DHNet.jpg
+categories: research
+author: "Chenhao Zhang"
+authors: "<strong>Chenhao Zhang</strong>, Shanshan Gao, Deqian Mao, Yuanfeng Zhou"
+venue: "IEEE Transactions on Circuits and Systems for Video Technology, 2022"
+paper: https://ieeexplore.ieee.org/abstract/document/9797762
+---
+During the annotation procedure of salient object detection, researchers usually locate the approximate location of the salient objects first and then process the pixels that need to be finely annotated.
