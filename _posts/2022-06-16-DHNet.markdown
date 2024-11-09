@@ -9,4 +9,4 @@ authors: "<strong>Chenhao Zhang</strong>, Shanshan Gao, Deqian Mao, Yuanfeng Zho
 venue: "IEEE Transactions on Circuits and Systems for Video Technology"
 paper: https://ieeexplore.ieee.org/abstract/document/9797762
 ---
-During the annotation procedure of salient object detection, researchers usually locate the approximate location of the salient objects first and then process the pixels that need to be finely annotated.
+This work introduces a dynamic scale-aware learning approach and a dense sampling strategy with graph-based feature aggregation to enhance salient object detection, effectively addressing issues in object positioning and hard-sample handling, and achieving superior performance on five benchmark datasets.

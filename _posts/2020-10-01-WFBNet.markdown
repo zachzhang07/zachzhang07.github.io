@@ -9,4 +9,4 @@ authors: "<strong>Chenhao Zhang</strong>, Shanshan Gao, Xiao Pan, Yuting Wang, Y
 venue: "Computer Graphics Forum (Pacific Graphics 2020)"
 paper: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14155
 ---
-We propose a novel Weak Feature Boosting Network (WFBNet) for the salient object detection task. In the WFBNet, we extract the unpredictable regions (low confidence regions) of the image via a polynomial function and enhance the features of these regions through a well‐designed weak feature boosting module (WFBM). Starting from a coarse saliency map, we gradually refine it according to the boosted features to obtain the final saliency map, and our network does not need any post‐processing step.
+This paper introduces a novel Weak Feature Boosting Network (WFBNet) for salient object detection, which enhances low-confidence regions to improve detection accuracy, particularly in complex backgrounds or with small salient objects, achieving superior performance on five benchmark datasets without post-processing.
