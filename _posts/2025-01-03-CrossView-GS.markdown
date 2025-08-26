@@ -6,7 +6,7 @@ image: /images/CrossView-GS.jpg
 categories: research
 author: "Chenhao Zhang"
 authors: "<strong>Chenhao Zhang</strong>, Yuanping Cao, Lei Zhang"
-venue: ""
+venue: "arXiv"
 paper: https://arxiv.org/abs/2403.06505
 # website: https://zyyzyy06.github.io/Vosh
 # code: https://github.com/zachzhang07/vosh
