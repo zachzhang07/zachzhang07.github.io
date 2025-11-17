@@ -8,5 +8,6 @@ author: "Chenhao Zhang"
 authors: "<strong>Chenhao Zhang</strong>, Shanshan Gao, Xiao Pan, Yuting Wang, Yuanfeng Zhou"
 venue: "Computer Graphics Forum (Pacific Graphics)"
 paper: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14155
+code: https://github.com/zachzhang07/WFBNet_SOD
 ---
 This paper introduces a novel Weak Feature Boosting Network (WFBNet) for salient object detection, which enhances low-confidence regions to improve detection accuracy, particularly in complex backgrounds or with small salient objects, achieving superior performance on five benchmark datasets without post-processing.
