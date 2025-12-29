@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CrossView-GS: Cross-view Gaussian Splatting For Large-scale Scene Reconstruction"
+title:  "CrossView-GS: Gaussian Splatting for Cross-view Scene Reconstruction"
 date:   2025-01-03 00:00:00 +00:00
 image: /images/CrossView-GS.jpg
 categories: research
